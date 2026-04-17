@@ -42,6 +42,15 @@ Dashboard Development
 Insight Generation  
 
 ## Business Impact
-Helps stakeholders identify market opportunities, improve customer satisfaction, and optimize pricing strategy.
+
+The insights derived from this analysis help stakeholders:
+
+• Identify high-demand cuisines and customer preferences  
+• Optimize pricing strategies based on rating trends  
+• Select profitable locations for restaurant expansion  
+• Improve customer satisfaction using data-driven decisions  
+• Support strategic planning using performance metrics  
+
+This project demonstrates how data analytics can support decision-making in the food delivery industry.
 <img width="1280" height="648" alt="zoamto analysis ss excel" src="https://github.com/user-attachments/assets/c80e41cd-0bdb-47e5-9d2a-4191f22e2cdf" />
 
