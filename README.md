@@ -1,5 +1,9 @@
 # Zomato Business Analysis Dashboard
 
+## Dashboard Preview
+<img width="1280" height="648" alt="zoamto analysis ss excel" src="https://github.com/user-attachments/assets/e21804eb-d700-4001-94e5-98530a093994" />
+
+
 ## Project Overview
 This project analyzes Zomato restaurant data to identify key business insights related to customer preferences, pricing patterns, ratings, and location-based performance. The objective is to support strategic decision-making for restaurant expansion and service improvement.
 
@@ -31,7 +35,7 @@ The food delivery industry is highly competitive. Businesses need data-driven in
 - Zomato SQL Queries.sql
 - Zomato Power BI Dashboard.pbix
 - Zomato Tableau Dashboard.twbx
-- Dashboard Screenshot.png
+- dashboard-preview.png
 
 ## Skills Demonstrated
 Data Cleaning  
@@ -52,5 +56,3 @@ The insights derived from this analysis help stakeholders:
 • Support strategic planning using performance metrics  
 
 This project demonstrates how data analytics can support decision-making in the food delivery industry.
-<img width="1280" height="648" alt="zoamto analysis ss excel" src="https://github.com/user-attachments/assets/c80e41cd-0bdb-47e5-9d2a-4191f22e2cdf" />
-
