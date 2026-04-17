@@ -43,3 +43,5 @@ Insight Generation
 
 ## Business Impact
 Helps stakeholders identify market opportunities, improve customer satisfaction, and optimize pricing strategy.
+<img width="1280" height="648" alt="zoamto analysis ss excel" src="https://github.com/user-attachments/assets/c80e41cd-0bdb-47e5-9d2a-4191f22e2cdf" />
+
