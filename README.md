@@ -1,4 +1,4 @@
-# Zomato Business Analysis Dashboard
+# Zomato Business Analysis Dashboard (Excel)
 
 ## Dashboard Preview
 <img width="1280" height="648" alt="zoamto analysis ss excel" src="https://github.com/user-attachments/assets/e21804eb-d700-4001-94e5-98530a093994" />
@@ -13,8 +13,7 @@ The food delivery industry is highly competitive. Businesses need data-driven in
 ## Tools Used
 - Excel
 - SQL
-- Power BI
-- Tableau
+
 
 ## Key Business Insights
 - Identified top-performing restaurant locations
